@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to My Homepage 👋
+
+## Publications
+* **Don't Guess, Just Ask: Resolving Ambiguity in Referring Segmentation via Multi-turn Clarification** Authors: Yuting Yang, Haichao Jiang, Tianming Liang, Quan Zhang, Jian-Fang Hu
+  [ArXiv Paper](https://arxiv.org/abs/2605.17531) | [Code](https://github.com/iSEE-Laboratory/IC-Seg)
 
 <!--
 **bbyyj/bbyyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
